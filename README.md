@@ -3,7 +3,7 @@ A basic diabetes analysis project deployed on heroku
 
 ## Check out the created web api for diabetes analysis
 
-``` url
+``` web
 https://diabetes-analysis-api.herokuapp.com
 ```
 
