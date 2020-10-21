@@ -8,4 +8,4 @@ https://diabetes-analysis-api.herokuapp.com
 ```
 
 ## A preview of the website
-![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/index.png)
+![alt text](https://github.com/vsahasrabudhe96/diabetes-analysis-heroku/blob/main/web-api-d-a.png)
